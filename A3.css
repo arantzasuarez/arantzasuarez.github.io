@@ -1,0 +1,21 @@
+body {
+   background: radial-gradient(rgba(66, 101, 255, 0.704), rgba(29, 22, 168, 0.702),rgba(40, 6, 119, 0.702), rgba(40, 0, 57, 0.665), rgba(79, 182, 255, 0.665))
+}
+
+p {
+    font-family: 'Nanum Brush Script', 'Tulpen One', 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+.right-block-image {
+    float: right;
+    margin-right: 0;
+    width: 50%;
+}
+
+#fight {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}

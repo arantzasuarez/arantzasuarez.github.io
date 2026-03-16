@@ -1,0 +1,65 @@
+body {
+    background-image: url(images/moviebackground.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Honk','Times New Roman', Times, serif;
+    font-size: 200px;
+    text-align: center;
+    margin-top: 1%;
+    color: antiquewhite;
+}
+
+p {
+    font-family: 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 75px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+h2 {
+     font-family: 'Tulpen One', 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 75px;
+    margin-left: 25%;
+    float: left;
+    margin-bottom: 15%;
+    color: antiquewhite;
+    border-style: dotted;
+    border-color: antiquewhite;
+    border-width: 5%;
+    padding: 15px;
+}
+
+h2:hover {
+    font-size: 100px;
+    color: red;
+}
+
+h3 {
+     font-family: 'Tulpen One', 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 75px;
+    margin-right: 25%;
+    float: right;
+    margin-bottom: 15%;
+    color: antiquewhite;
+    border-style: dotted;
+    border-color: antiquewhite;
+    border-width: 5%;
+    padding: 15px;
+}
+
+h3:hover {
+    font-size: 100px;
+    color: red;
+}
+
+#maya {
+    width: 50%;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}

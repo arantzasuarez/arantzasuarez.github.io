@@ -1,0 +1,57 @@
+body {
+    background:repeating-linear-gradient(rgba(128, 0, 128, 0.601), rgba(165, 0, 0, 0.577));
+}
+
+p {
+    font-family: 'Nanum Brush Script', 'Tulpen One', 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+#alexscared {
+    width: 25%;
+    margin-left: 20%;
+}
+
+.right-block-image {
+    margin-left: 8%;
+    margin-right: 0;
+    width: 28%;
+}
+
+
+#Maya {
+    font-family: 'Shrikhand','Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(63, 0, 0);
+    text-align: center;
+}
+
+#Maya:hover {
+    font-size: 100px;
+}
+
+
+h2 {
+    font-family: 'Tulpen One', 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-left: 25%;
+    float: left;
+}
+
+h2:hover {
+    font-size: 65px;
+    color: red;
+}
+
+h3 {
+    font-family: 'Tulpen One', 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-right: 25%;
+    float: right;
+}
+
+h3:hover {
+    font-size: 65px;
+    color: red;
+}

@@ -1,0 +1,41 @@
+body {
+    background: radial-gradient(rgba(249, 255, 66, 0.704), rgba(168, 10, 144, 0.702),rgba(119, 6, 102, 0.702), rgba(180, 22, 22, 0.665), rgba(119, 8, 8, 0.665))
+}
+
+p {
+    font-family: 'Nanum Brush Script', 'Tulpen One', 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+#Sadlila {
+    display: block;
+    float: right;
+    width: 27%;
+}
+
+h2 {
+    font-family: 'Tulpen One', 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 75px;
+    margin-left: 8%;
+    margin-bottom: 10%;
+    float: left;
+}
+
+h2:hover {
+    font-size: 90px;
+    color: red;
+}
+
+h3 {
+    font-family: 'Tulpen One', 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 75px;
+    margin-right: 8%;
+    margin-bottom: 10%;
+    float: right;
+}
+
+h3:hover {
+    font-size: 90px;
+    color: red;
+}
