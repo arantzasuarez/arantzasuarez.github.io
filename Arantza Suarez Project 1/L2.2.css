@@ -1,0 +1,14 @@
+body {
+    background:rgba(165, 0, 0, 0.577);
+}
+
+p {
+    font-family: 'Nanum Brush Script', 'Tulpen One', 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+#divided {
+    float: right;
+    width: 50%;
+}

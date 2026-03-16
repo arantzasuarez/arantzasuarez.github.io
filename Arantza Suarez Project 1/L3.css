@@ -1,0 +1,40 @@
+body {
+    background: rgba(143, 14, 87, 0.633);
+}
+
+p {
+    font-family: 'Nanum Brush Script', 'Tulpen One', 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+#pensive {
+    width: 30%;
+    float: right;
+}
+
+h2 {
+    font-family: 'Tulpen One', 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 65px;
+    margin-left: 25%;
+    float: left;
+    margin-bottom: 5%;
+}
+
+h2:hover {
+    font-size: 75px;
+    color: red;
+}
+
+h3 {
+    font-family: 'Tulpen One', 'Nanum Brush Script', 'Times New Roman', Times, serif;
+    font-size: 65px;
+    margin-right: 25%;
+    float: right;
+    margin-bottom: 5%;
+}
+
+h3:hover {
+    font-size: 75px;
+    color: red;
+}

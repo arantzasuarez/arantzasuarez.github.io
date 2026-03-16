@@ -1,0 +1,36 @@
+body {
+   background: radial-gradient(rgba(66, 101, 255, 0.704), rgba(29, 22, 168, 0.702),rgba(40, 6, 119, 0.702), rgba(40, 0, 57, 0.665), rgba(79, 182, 255, 0.665))
+}
+
+p {
+    font-family: 'Nanum Brush Script', 'Tulpen One', 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+#awkward {
+    width: 27%;
+    float: left;
+    margin-bottom: 150px;
+}
+
+#relieved {
+    width: 27%;
+    float: right;
+    margin-bottom: 100px;
+}
+
+#hug {
+    width: 43%;
+    margin-left: 25%;
+    margin-right: 28.5%;
+}
+
+#hug:hover {
+    width: 53%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-style: inset;
+    border-width: 10px;
+    border-color: rgba(239, 42, 140, 0.783);
+}
